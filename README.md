@@ -5,7 +5,7 @@
     <img src="/src/assets/Nano_logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h2 align="center">Nano-Byte Media</h2>
+  <h2 align="center">App</h2>
 
   <p align="center">
     A new way to communicate about questions that you have for people who have been in the same spot as you!
@@ -51,19 +51,11 @@
 
 Here's what you can find:
 
-- Info about me and what I do.
-- Projects I built and the tech stack used in each one.
-- Programming languages, frameworks, and tools that I use.
+- Info about the project
 
 ### Built With
 
-- [Vite](https://vitejs.dev/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Framer](https://www.framer.com/motion/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [React](https://reactjs.org/)
-- [Firebase](https://firebase.google.com/docs)
-- [Material UI](https://mui.com/)
+- []
 <!-- GETTING STARTED -->
 
 ## Getting Started
@@ -72,8 +64,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-- Node.js & npm installed.
-- Git and any terminal to run commands.
+- update
 
 ### Installation
 
@@ -81,26 +72,20 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    git clone https://github.com/omar-labana/read-track.git
    ```
-2. Install NPM packages
-   ```sh
-   npm install
+2. Install packages
+
+   ```
+
    ```
 
 <!-- USAGE EXAMPLES -->
 
 ## Usage
 
-1. Run the dev server
-   ```sh
-   npm run dev | npm run start
-   ```
-2. Open http://localhost:3000/ in your browser
-3. Start shopping!
 <!-- ROADMAP -->
 
-## Contact
+## Contact Our Contributors!
 
 Eduardo Morales - [@emSWE](https://www.linkedin.com/in/emSWE/) - emoral435@gmail.com
 <br/>
-Gerard Wilbert - [@gw916](https://github.com/gw916) - gwilb2@uic.edu
-
+Gerard Wilbert - [@gw916](https://github.com/gw916) 
