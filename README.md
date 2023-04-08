@@ -102,4 +102,5 @@ To get a local copy up and running follow these simple example steps.
 
 Eduardo Morales - [@emSWE](https://www.linkedin.com/in/emSWE/) - emoral435@gmail.com
 <br/>
-I like to make fun things, and then break them
+Gerard Wilbert - [@gw916](https://github.com/gw916) - gwilb2@uic.edu
+
